@@ -1,4 +1,4 @@
-Hello my name is Lamar I am 22 years old from Florida and am currently learning to code. 💻
+Hello my name is Lamar I am 23 years old from Florida and am currently learning to code. 💻
 I started a podcast called the Tangerine Podcast 🍊
 I am using Free Code Camp, and the Odin Project to learn the basics of coding and putting them into practice. 
 The languages I am learning are command line, HTML, CSS. Java Script i will be learning soon, along with a back-end language. 
